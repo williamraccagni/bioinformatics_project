@@ -1,0 +1,17 @@
+setuptools~=47.3.1
+pandas~=0.25.3
+numpy~=1.18.5
+scikit-learn~=0.23.1
+scipy~=1.4.1
+Boruta~=0.3
+tensorflow~=2.2.0
+keras-bed-sequence~=1.1.1
+keras-mixed-sequence~=1.0.9
+ucsc-genomes-downloader~=1.1.18
+epigenomic-dataset~=1.1.5
+keras-tqdm~=2.0.1
+minepy~=1.2.4
+imblearn~=0.0
+matplotlib~=3.2.2
+seaborn~=0.10.1
+barplots~=1.1.4
